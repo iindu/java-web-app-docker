@@ -19,7 +19,9 @@
 
 	<properties>
 		<!-- versions -->
-		
+		<sonar.host.ur>http://3.6.160.168:9000/</sonar.hosturl>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password> -->
 		<spring.version>5.0.7.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
